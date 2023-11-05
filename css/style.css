@@ -1,0 +1,126 @@
+#divButtons{
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo{
+  width: 100px;
+  height: 60px;
+}
+
+#formLogin{
+  margin-bottom: 15%;
+}
+
+#error{
+  margin-top: 10%;
+  color: red;
+  font-weight: bold;
+}
+
+#containerLogin{
+  display: flex;
+  justify-content: center;
+  padding: 60px;
+}
+
+.form-control{
+  width: 350px;
+}
+
+
+.flexbox {
+  align-items: center;
+  display: flex;
+  height: 70px;
+  color: #333;
+  font-weight: bolder;
+}
+
+#login {
+  text-align: end;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  /* background-color: #ddbd8f; */
+}
+
+#loginId {
+  background-color: #b77b2b;
+  border: none;
+}
+
+#logoutId {
+  background-color: #6d5630;
+  border: none;
+}
+
+ 
+header {
+  background-color: #e7a341;
+  font-family: emoji;
+}
+h2 {
+  font-family: none;
+}
+#total {
+  font-size: x-large;
+  font-weight: bold;
+  text-align: center;
+}
+aside p {
+  font-size: x-large;
+  font-weight: bold;
+  text-align: center;
+}
+
+img {
+  width: 110px;
+  height: 110px;
+}
+
+#catalogueTittle {
+  font-size: xxx-large;
+  margin-bottom: 1%;
+}
+
+.categoryButtons {
+  margin-bottom: 5%;
+  #categoryGatos {
+    margin-right: 10%;
+  }
+}
+
+.catalogueSection {
+  text-align: center;
+}
+
+.descriptionText {
+  text-align: left;
+}
+
+.price {
+  font-size: xx-large;
+  font-weight: bold;
+  text-align: center;
+}
+
+.col-6 {
+  margin-bottom: 5%;
+}
+
+.list-group-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+#clearCart{
+  width: 100%;
+  margin-bottom: 5%;
+}
+
+#complete{
+  width: 100%;
+  margin-bottom: 5%;
+}

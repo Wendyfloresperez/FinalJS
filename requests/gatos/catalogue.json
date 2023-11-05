@@ -1,0 +1,32 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "img": "./img/arena-gatos.PNG",
+        "name": "Piedras",
+        "description": "Piedras Sanitarias Lavanda Gato Alta Gama 3.6kg",
+        "price": 1690
+      },
+      {
+        "id": 2,
+        "img": "./img/rasgador-gatos.PNG",
+        "name": "Rasgador",
+        "description": "Rascador De Poste Zootec Sumamente duraredo",
+        "price": 6570
+      },
+      {
+        "id": 3,
+        "img": "./img/collar-gatos.PNG",
+        "name": "Collar",
+        "description": "Collar Elastizado Gatos Gatitos Bebe Kitten Perros Chicos",
+        "price": 990
+      },
+      {
+        "id": 4,
+        "img": "./img/peine-gatos.PNG",
+        "name": "Peine",
+        "description": "Peine Cepillo Mascota Desatanudos Rastrillo Doble Rosa",
+        "price": 15990
+      }
+    ]
+}

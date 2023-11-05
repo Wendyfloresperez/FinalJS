@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+          "id": 1,
+          "img": "./img/cama-canina.PNG",
+          "name": "Cama Para Perro",
+          "description": "Cama Para Perro 90x70 Cm Comoda Colchoneta De Mascotas",
+          "price": 1020
+        },
+        {
+          "id": 2,
+          "img": "./img/pelota-perros.PNG",
+          "name": "Pelota Diseño",
+          "description": "Pelota Diseño Futbol Juguete Mascotas Luz Led Diversion Asegurada",
+          "price": 4041
+        },
+        {
+          "id": 3,
+          "img": "./img/Arnes.PNG",
+          "name": "Pretal Arnes",
+          "description": "Pretal Arnes Acolchonado Pechera Para Perros Del S Al Xxl",
+          "price": 9152
+        },
+        {
+          "id": 4,
+          "img": "./img/chapa-perros.PNG",
+          "name": "Chapitas",
+          "description": "Chapitas P/perros Sin Grabar, diferentes Formas para nuestras mascotas",
+          "price": 12000
+        }
+      ]
+    }
